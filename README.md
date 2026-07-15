@@ -1,4 +1,4 @@
-# AI-ML-and-GEN-AI-Track-Project-Template
+
 
 ## Project Title
 **OptiCrop – Smart Agricultural Production Engine**
@@ -66,9 +66,11 @@ Contains the project presentation (PPT), demonstration screenshots, demo video, 
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
-Demo
+
+
+Demo 
+
 https://1drv.ms/v/c/b5b7b3941b5c9777/IQCUwxtCo_e5TpUppJktNL_kAfaK6pASsG4tThU8hsuYdpQ?e=vvul00
 
-Author
-
+   Author
 Chitra Hema
