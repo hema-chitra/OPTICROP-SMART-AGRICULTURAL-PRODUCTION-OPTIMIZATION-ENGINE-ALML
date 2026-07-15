@@ -24,6 +24,7 @@ Contains the project report, user manual, installation guide, and supporting doc
 Contains the project presentation, demonstration video, screenshots, and demo materials.
 Technologies Used
 ------
+
 •	Python
 •	Flask
 •	Scikit-learn
@@ -44,6 +45,7 @@ Project Workflow
 •	Process the input using the trained machine learning model.
 •	Predict the most suitable crop.
 •	Display the recommended crop to the user.
+------
 Demo
 https://1drv.ms/v/c/b5b7b3941b5c9777/IQCUwxtCo_e5TpUppJktNL_kAfaK6pASsG4tThU8hsuYdpQ?e=vvul00
 ------
