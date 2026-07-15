@@ -1,7 +1,10 @@
 OptiCrop – Smart Agricultural Production Optimization Engine
+------
 Project Overview
+------
 OptiCrop is an AI-powered crop recommendation system that predicts the most suitable crop based on soil nutrients and environmental conditions. The application helps users make better agricultural decisions using Machine Learning.
 Repository Structure
+------
 This repository follows the AI-ML-and-GEN-AI Track project structure.
 1. Brainstorming & Ideation
 Contains brainstorming activities, idea generation, problem identification, empathy map, and project proposal.
@@ -20,6 +23,7 @@ Contains the project report, user manual, installation guide, and supporting doc
 8. Project Demonstration
 Contains the project presentation, demonstration video, screenshots, and demo materials.
 Technologies Used
+------
 •	Python
 •	Flask
 •	Scikit-learn
@@ -28,16 +32,19 @@ Technologies Used
 •	HTML
 •	CSS
 Installation
+------
 1.	Clone this repository.
 2.	Install the required Python packages:
 pip install -r requirements.txt
 3.	Run the application:
 python app.py
 Project Workflow
+------
 •	Enter soil and environmental parameters.
 •	Process the input using the trained machine learning model.
 •	Predict the most suitable crop.
 •	Display the recommended crop to the user.
 Demo
+https://1drv.ms/v/c/b5b7b3941b5c9777/IQCUwxtCo_e5TpUppJktNL_kAfaK6pASsG4tThU8hsuYdpQ?e=vvul00
 Author
 Chitra Hema
